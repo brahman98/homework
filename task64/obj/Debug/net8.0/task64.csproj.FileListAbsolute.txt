@@ -1,0 +1,14 @@
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/bin/Debug/net8.0/task64
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/bin/Debug/net8.0/task64.deps.json
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/bin/Debug/net8.0/task64.runtimeconfig.json
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/bin/Debug/net8.0/task64.dll
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/bin/Debug/net8.0/task64.pdb
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/obj/Debug/net8.0/task64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/obj/Debug/net8.0/task64.AssemblyInfoInputs.cache
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/obj/Debug/net8.0/task64.AssemblyInfo.cs
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/obj/Debug/net8.0/task64.csproj.CoreCompileInputs.cache
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/obj/Debug/net8.0/task64.dll
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/obj/Debug/net8.0/refint/task64.dll
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/obj/Debug/net8.0/task64.pdb
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/obj/Debug/net8.0/task64.genruntimeconfig.cache
+/Users/brahman/Desktop/Веб-разработка/Geekbrains/NEW/C#homework/task64/obj/Debug/net8.0/ref/task64.dll
